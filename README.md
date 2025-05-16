@@ -10,6 +10,9 @@ I'm currently studying Web Application Development at Liceo La Paz, A Coruña, S
 * ✉️  You can contact me at [danielgomezaradas@gmail.com](mailto:danielgomezaradas@gmail.com)
 * 🧠  I'm currently learning MYSQL, HTML, CSS, Java, XML and JSON
 
+<a href="https://www.github.com/dani285i" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/dani285i?logo=github&style=for-the-badge&color=facc15&labelColor=27272a" /></a>
+
 ### Skills
 
 
@@ -26,8 +29,8 @@ I'm currently studying Web Application Development at Liceo La Paz, A Coruña, S
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/dani285i"><img src="https://github-readme-stats.vercel.app/api?username=dani285i&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dani285i's GitHub stats" /></a>
+<a href="http://www.github.com/dani285i"><img src="https://github-readme-stats.vercel.app/api?username=dani285i&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true" alt="dani285i's GitHub stats" /></a>
 
-<a href="http://www.github.com/dani285i"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dani285i&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/dani285i"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dani285i&stroke=ffffff&background=27272a&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/dani285i" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani285i&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/dani285i" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani285i&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
