@@ -1,4 +1,4 @@
-Hi 👋 My name is Daniel Gómez Aradas
+Hi, my name is Daniel Gómez Aradas
 ====================================
 
 Web Application Development
