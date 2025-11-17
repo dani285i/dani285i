@@ -1,7 +1,7 @@
 Hi, my name is Daniel Gómez Aradas
 ====================================
 
-Web Application Development
+Web Application Developer
 ---------------------------
 
 I'm currently studying Web Application Development at Liceo La Paz, A Coruña, Spain. I'm taking little steps every day to improve my skills as a programmer.
