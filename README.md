@@ -23,12 +23,6 @@ src="https://img.shields.io/github/followers/dani285i?logo=github&style=for-the-
 ![](https://nirzak-streak-stats.vercel.app/?user=dani285i&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dani285i&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dani285i&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=dani285i&icon=2&color=3)](https://visitcount.itsvg.in)
-
 ###
 
 <picture>
