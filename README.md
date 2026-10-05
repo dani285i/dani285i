@@ -77,12 +77,11 @@ public class DanielGomez extends WebDeveloper {
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dani285i/dani285i/output/profile-summary-card-output/github_dark/0-profile-details.svg" height="165" alt="Profile Details" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=dani285i&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" height="165" alt="Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dani285i&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" alt="Top Languages" />
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dani285i/dani285i/output/profile-summary-card-output/github_dark/3-stats.svg" height="165" alt="Stats" />
-  <img src="https://raw.githubusercontent.com/dani285i/dani285i/output/profile-summary-card-output/github_dark/2-most-commit-language.svg" height="165" alt="Top Languages" />
-  <img src="https://raw.githubusercontent.com/dani285i/dani285i/output/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="165" alt="Repos per Language" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=dani285i&theme=github-dark-blue&hide_border=false" height="165" alt="Streak Stats" />
 </div>
 
 ---
