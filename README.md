@@ -81,7 +81,7 @@ public class DanielGomez extends WebDeveloper {
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dani285i&theme=github_dark&title_color=9745FF&border_color=9745FF&bg_color=0d1117&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" alt="Top Languages" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=dani285i&theme=github-dark-blue&ring=9745FF&fire=9745FF&currStreakLabel=9745FF&border=9745FF&background=0d1117&hide_border=false" height="165" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=dani285i&theme=github-dark-blue&ring=9745FF&fire=9745FF&currStreakLabel=9745FF&border=9745FF&background=0d1117&hide_border=false" height="165" alt="Streak Stats" />
 </div>
 
 ---
