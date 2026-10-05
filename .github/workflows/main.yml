@@ -1,4 +1,4 @@
-name: Generate Profile Widgets (Pacman, Snake & Stats)
+name: Generate Profile Widgets
 
 on:
   schedule:
@@ -9,7 +9,7 @@ on:
       - main
 
 jobs:
-  generate-all:
+  build:
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -19,15 +19,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 1. GENERAR PAC-MAN
-      - name: Generate Pac-Man Contribution Graph
+      - name: Generate Pac-Man
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 2. GENERAR SNAKE
-      - name: Generate GitHub Snake
+      - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -35,7 +33,6 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      # 3. SUBIR SNAKE A LA RAMA OUTPUT
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
@@ -45,7 +42,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 4. GENERAR TARJETAS DE ESTADÍSTICAS (NUNCA CAEN)
       - name: Generate Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
