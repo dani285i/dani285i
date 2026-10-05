@@ -66,24 +66,23 @@ public class DanielGomez extends WebDeveloper {
 
 ---
 
-## GitHub Trophies
+## GitHub Trophies & Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dani285i&theme=darkhub&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=dani285i&theme=darkhub&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ## GitHub Stats
 
-<!-- github actions -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/dani285i/dani285i/output/profile-summary-card-output/github_dark/0-profile-details.svg" height="165" alt="Profile Details" />
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/dani285i/dani285i/output/profile-summary-card-output/github_dark/3-stats.svg" height="165" alt="Stats" />
   <img src="https://raw.githubusercontent.com/dani285i/dani285i/output/profile-summary-card-output/github_dark/2-most-commit-language.svg" height="165" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=dani285i&theme=github-dark-blue&hide_border=false" height="165" alt="Streak Stats" />
+  <img src="https://raw.githubusercontent.com/dani285i/dani285i/output/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="165" alt="Repos per Language" />
 </div>
 
 ---
