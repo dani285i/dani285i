@@ -6,7 +6,7 @@
 <!-- efecto maquina de escribir -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5E00D6&center=true&vCenter=true&width=600&lines=Web+Application+Developer;Studying+DAW+at+Liceo+La+Paz+(A+Coru%C3%B1a);Full-Stack+in+Progress%3A+Java%2C+Spring+%26+React;Taking+little+steps+every+day+to+improve" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9745FF&center=true&vCenter=true&width=600&lines=Web+Application+Developer;Studying+DAW+at+Liceo+La+Paz+(A+Coru%C3%B1a);Full-Stack+in+Progress%3A+Java%2C+Spring+%26+React;Taking+little+steps+every+day+to+improve" alt="Typing SVG" />
   </a>
 </div>
 
@@ -77,11 +77,11 @@ public class DanielGomez extends WebDeveloper {
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=dani285i&theme=github_dark&title_color=5E00D6&icon_color=5E00D6&border_color=5E00D6&bg_color=0d1117&hide_border=false&include_all_commits=true&count_private=true" height="165" alt="Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dani285i&theme=github_dark&title_color=5E00D6&border_color=5E00D6&bg_color=0d1117&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=dani285i&theme=github_dark&title_color=9745FF&icon_color=9745FF&border_color=9745FF&bg_color=0d1117&hide_border=false&include_all_commits=true&count_private=true" height="165" alt="Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dani285i&theme=github_dark&title_color=9745FF&border_color=9745FF&bg_color=0d1117&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" alt="Top Languages" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=dani285i&theme=github-dark-blue&ring=5E00D6&fire=5E00D6&currStreakLabel=5E00D6&border=5E00D6&background=0d1117&hide_border=false" height="165" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=dani285i&theme=github-dark-blue&ring=9745FF&fire=9745FF&currStreakLabel=9745FF&border=9745FF&background=0d1117&hide_border=false" height="165" alt="Streak Stats" />
 </div>
 
 ---
