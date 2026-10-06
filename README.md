@@ -60,7 +60,7 @@ public class DanielGomez extends WebDeveloper {
   
   <h4>Design, 3D & Multimedia</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,blender,ps,ai,pr,ae&theme=dark" alt="Design Skills" />
+    <img src="https://skillicons.dev/icons?i=figma,blender,ps,pr&theme=dark" alt="Design Skills" />
   </a>
 </div>
 
