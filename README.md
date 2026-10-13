@@ -53,14 +53,19 @@ public class DanielGomez extends WebDeveloper {
 ## Tech Stack & Design Tools
 
 <div align="center">
-  <h4>Frontend & Backend Development</h4>
+  <h4>Backend & DevOps</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,js,ts,react,vite,html,css,github&theme=dark" alt="Dev Skills" />
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,mysql,linux,debian,windows&theme=dark" alt="Backend and DevOps Skills" />
   </a>
   
-  <h4>Design, 3D & Multimedia</h4>
+  <h4>Frontend Development</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,blender,ps,pr&theme=dark" alt="Design Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,react,js,tailwind,bootstrap,html,css&theme=dark" alt="Frontend Skills" />
+  </a>
+
+  <h4>Design, Multimedia & Tools</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,vscode,figma,blender,ps,pr&theme=dark" alt="Design and Tools" />
   </a>
 </div>
 
